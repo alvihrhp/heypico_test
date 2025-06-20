@@ -76,12 +76,3 @@ npm run chat
    - Type 'exit' or 'quit' to end the conversation
 
 ### Example Conversation:
-
-## API Usage
-
-### Get Place Recommendations
-
-**Endpoint:** POST /api/recommendations
-
-**Request Body:**
-```
